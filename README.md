@@ -31,7 +31,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Rust, C, Bash (Shell), JavaScript |
+| **Languages** | Rust, C, Bash (Shell), Python, JavaScript |
 | **Operating System** | Linux Kernel, glibc, Init systems (Lksystem), Arch internals |
 | **Tools and Build** | Make, CMake, Cargo, Git, GCC/Clang, QEMU |
 | **Scripting and Automation** | Bash, Awk, Sed |
