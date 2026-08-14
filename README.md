@@ -1,4 +1,4 @@
-
+![](header.gif)
 
 # Hi there, I'm Janorovic Volkov 🦊🌸
 
@@ -8,7 +8,6 @@
   Building custom, blazing-fast, and secure Linux distribution from scratch. 
   Obsessed with low-level systems, memory safety, and shell automation.
 </p>
-
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
