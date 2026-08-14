@@ -7,14 +7,12 @@
   Obsessed with low-level systems, memory safety, and shell automation.
 </p>
 
-<div align="center">
-
-  ![Rust](https://shields.io)
-  ![C](https://shields.io)
-  ![GNU Bash](https://shields.io)
-  ![Linux](https://shields.io)
-
-</div>
+<p align="center">
+  <img src="https://jsdelivr.net" width="50" height="50" alt="Linux" />
+  <img src="https://jsdelivr.net" width="50" height="50" alt="Rust" />
+  <img src="https://jsdelivr.net" width="50" height="50" alt="C" />
+  <img src="https://jsdelivr.net" width="50" height="50" alt="Bash" />
+</p>
 
 ---
 
