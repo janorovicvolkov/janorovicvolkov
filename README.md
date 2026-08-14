@@ -1,3 +1,5 @@
+
+
 # Hi there, I'm Janorovic Volkov 🦊🌸
 
 <h3 align="center">Liska Linux Developer and System Architect</h3>
@@ -7,12 +9,12 @@
   Obsessed with low-level systems, memory safety, and shell automation.
 </p>
 
-<p align="center">
-  <img src="https://jsdelivr.net" width="50" height="50" alt="Linux" />
-  <img src="https://jsdelivr.net" width="50" height="50" alt="Rust" />
-  <img src="https://jsdelivr.net" width="50" height="50" alt="C" />
-  <img src="https://jsdelivr.net" width="50" height="50" alt="Bash" />
-</p>
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 ---
 
@@ -28,7 +30,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Rust, C, Bash (Shell), Assembly (x86_64) |
+| **Languages** | Rust, C, Bash (Shell), JavaScript |
 | **Operating System** | Linux Kernel, glibc, Init systems (Lksystem), Arch internals |
 | **Tools and Build** | Make, CMake, Cargo, Git, GCC/Clang, QEMU |
 | **Scripting and Automation** | Bash, Awk, Sed |
