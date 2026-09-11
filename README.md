@@ -47,5 +47,5 @@
 ---
 
 ### 💬 Connect with Me
-* **Blog:** [janorovicvolkov.web.app](https://janorovicvolkov.web.app)
+* **Blog:** [janorovicvolkov.github.io](https://janorovicvolkov.github.io)
 * **Instagram:** [@janorovicvolkov](https://instagram.com/janorovicvolkov)
