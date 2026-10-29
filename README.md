@@ -8,8 +8,8 @@
   <p>Building lean, fast, and user-controlled systems from the ground up.</p>
   <p>
     <a href="https://liskalinuxproject.web.app">Liska Linux</a> |
-    <a href="https://janorovicvolkov.github.io">Website</a> |
-    <a href="https://janorovicvolkov.github.io/blogs">Blog</a> |
+    <a href="https://janorovic.web.app/">Website</a> |
+    <a href="https://janorovic.web.app/blogs">Blog</a> |
     <a href="https://instagram.com/janorovicvolkov">Instagram</a>
   </p>
 </div>
@@ -39,5 +39,5 @@ I'm currently exploring kernel development, package management, and boot optimiz
 
 ### Around the web
 
-| [Website](https://janorovicvolkov.github.io) | [Blog](https://janorovicvolkov.github.io/blogs) | [Instagram](https://instagram.com/janorovicvolkov) |
+| [Website](https://janorovic.web.app/) | [Blog](https://janorovic.web.app/blogs) | [Instagram](https://instagram.com/janorovicvolkov) |
 | :---: | :---: | :---: |
