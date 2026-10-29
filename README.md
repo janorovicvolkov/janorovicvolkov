@@ -1,7 +1,8 @@
 <div align="center">
   <img src="header.png" alt="A Linux desktop with a customized terminal" width="45%">
   <br><br>
-  <img src="fox.svg" alt="A usual Fox" width="5%">
+  <br>
+  <img src="fox.svg" alt="A usual Fox" width="10%">
   <h1>Janorovic Volkov</h1>
   <p><strong>Linux systems developer · Creator of Liska Linux</strong></p>
   <p>Building lean, fast, and user-controlled systems from the ground up.</p>
